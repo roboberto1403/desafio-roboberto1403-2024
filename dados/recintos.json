@@ -1,0 +1,32 @@
+[
+    {
+        "numero": 1,
+        "bioma": ["savana"],
+        "tamanho_total": 10,
+        "animais_existentes": ["MACACO", "MACACO", "MACACO"]
+    },
+    {
+        "numero": 2,
+        "bioma": ["floresta"],
+        "tamanho_total": 5,
+        "animais_existentes": []
+    },
+    {
+        "numero": 3,
+        "bioma": ["savana", "rio"],
+        "tamanho_total": 7,
+        "animais_existentes": ["GAZELA"]
+    },
+    {
+        "numero": 4,
+        "bioma": ["rio"],
+        "tamanho_total": 8,
+        "animais_existentes": []
+    },
+    {
+        "numero": 5,
+        "bioma": ["savana"],
+        "tamanho_total": 9,
+        "animais_existentes": ["LEAO"]
+    }
+]

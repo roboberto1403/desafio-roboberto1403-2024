@@ -1,0 +1,38 @@
+[
+    {
+        "especie": "LEAO",
+        "tamanho": 3,
+        "bioma": ["savana"],
+        "habito_alimentar": "carnivoro"
+    },
+    {
+        "especie": "LEOPARDO",
+        "tamanho": 2,
+        "bioma": ["savana"],
+        "habito_alimentar": "carnivoro"
+    },
+    {
+        "especie": "CROCODILO",
+        "tamanho": 3,
+        "bioma": ["rio"],
+        "habito_alimentar": "carnivoro"
+    },
+    {
+        "especie": "MACACO",
+        "tamanho": 1,
+        "bioma": ["savana", "floresta"],
+        "habito_alimentar": "onivoro"
+    },
+    {
+        "especie": "GAZELA",
+        "tamanho": 2,
+        "bioma": ["savana"],
+        "habito_alimentar": "herbivoro"
+    },
+    {
+        "especie": "HIPOPOTAMO",
+        "tamanho": 4,
+        "bioma": ["savana", "rio"],
+        "habito_alimentar": "onivoro"
+    }
+]
